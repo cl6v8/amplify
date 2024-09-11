@@ -1,9 +1,9 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "AmplifySSRLoggingRole-abbd732e-b616-4609-a680-fd982457b0a3",
+      "AuthRoleName": "amplify-amplify-dev-469a9-authRole",
       "UnauthRoleArn": "arn:aws:iam::994443725855:role/amplify-amplify-dev-469a9-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::994443725855:role/service-role/AmplifySSRLoggingRole-abbd732e-b616-4609-a680-fd982457b0a3",
+      "AuthRoleArn": "arn:aws:iam::994443725855:role/amplify-amplify-dev-469a9-authRole",
       "Region": "us-west-2",
       "DeploymentBucketName": "amplify-amplify-dev-469a9-deployment",
       "UnauthRoleName": "amplify-amplify-dev-469a9-unauthRole",
